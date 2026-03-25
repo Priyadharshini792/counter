@@ -16,3 +16,5 @@ decrement.onclick =function(){
     count--;
     Counter.textContent=count;
 }
+
+///now it new//
