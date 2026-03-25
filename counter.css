@@ -1,0 +1,19 @@
+#Counter{
+    font-size :10em;
+    display:block;
+    text-align:center;
+}
+.buttonContainer{
+    text-align: center;
+}
+.buttons{
+    padding: 10px 20px;
+    cursor: pointer;
+    color: white;
+    background-color: black;
+    border-radius: 18px;
+    transition: background-color 0.25s;
+}
+.buttons:hover{
+    background-color: grey;
+}
